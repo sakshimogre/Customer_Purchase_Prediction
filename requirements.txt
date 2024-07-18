@@ -1,0 +1,21 @@
+Libraries Used : 
+
+Pandas : 
+(import pandas as pd)
+Role: Data manipulation and analysis, including loading data, data inspection, and preprocessing.
+
+Matplotlib :
+(import matplotlib.pyplot as plt)
+Role: Creating static visualizations such as distribution plots and count plots.
+
+Seaborn :
+(import seaborn as sns)
+Role: Statistical data visualization, providing enhanced visualizations like count plots and heatmaps.
+
+Scikit-learn :
+(from sklearn.model_selection import train_test_split, from sklearn.ensemble import RandomForestClassifier, from sklearn.metrics import accuracy_score, confusion_matrix, classification_report)
+Role:train_test_split: Splitting data into training and testing sets for model evaluation.
+    RandomForestClassifier: Training a machine learning model for predicting customer purchases.
+    accuracy_score, confusion_matrix, classification_report: Evaluating and reporting model performance metrics.
+
+These libraries collectively enable data handling, visualization, and machine learning model training and evaluation in the project.
