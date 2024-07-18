@@ -34,4 +34,5 @@ Make sure you have the following installed:
 ### Installation
 **Clone the repository**
    ```bash
-   git clone https://github.com/sakshimogre/Customer_Purchase_Prediction.git
+   https://github.com/sakshimogre/Customer_Purchase_Prediction
+   
